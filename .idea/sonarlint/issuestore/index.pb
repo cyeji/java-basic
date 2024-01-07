@@ -16,3 +16,9 @@ i
 9src/main/java/com/inflearn/problem1/student/Student4.java,1/7/179ed784c6443af283ba107ea4fceb3c95409b6b
 l
 <src/main/java/com/inflearn/problem1/student/ClassStart5.java,0/a/0ab8536a897ea6df44e9fa0be467eee351865c20
+t
+Dsrc/main/java/com/inflearn/problem1/student/problem/MovieReview.java,f/9/f9e394876fe4086d9fcd5fdbe01efb007b9a0dbd
+y
+Isrc/main/java/com/inflearn/problem1/student/problem/MoviewReviewMain.java,f/9/f94f7205f618eeff2e390c7286f20057eb9d956b
+x
+Hsrc/main/java/com/inflearn/problem1/student/problem/MovieReviewMain.java,1/a/1a12db45adff528cec86c679004971db67abc0df
